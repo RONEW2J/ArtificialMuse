@@ -88,10 +88,6 @@ The application uses the following default models:
 - watercolor
 - oil-painting
 
-## 📝 License
-
-[Your License Here]
-
 ## 👤 Author
 
 **Ronew2J**

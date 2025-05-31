@@ -18,7 +18,7 @@ A modern desktop application for generating AI images using various models throu
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/RONEW2J/ArtoficialMuse.git
+git clone https://github.com/RONEW2J/ArtuficialMuse.git
 cd ArtificialMuse
 ```
 

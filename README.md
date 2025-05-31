@@ -105,4 +105,16 @@ Contributions, issues, and feature requests are welcome!
 
 ## 📸 Screenshots
 
-[Add screenshots of your application here]
+### Main Interface
+
+![Main Interface](screenshots/Main%20UI.png)
+
+### Generated Images Gallery
+
+![Generated Images](screenshots/GeneratedImages.png)
+
+### Settings Panel
+
+![Settings](screenshots/Settings.png)
+
+The application features a modern, intuitive interface with dark/light theme support, real-time image preview, and comprehensive image management capabilities.
